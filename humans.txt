@@ -3,7 +3,8 @@
 
 # TEAM
 
-    Riley J. Shaw -- developer, author, guy who the website is about -- @rileyjshaw
+    Asad Chishti -- inventor, poet, library, remixed this website as a stopgap measure -- @asad_ch
+    Riley J. Shaw -- developer, author, guy who tinkered with the code before Asad decided to mess around -- @rileyjshaw
 
 # THANKS
 
