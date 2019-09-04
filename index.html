@@ -36,7 +36,7 @@
 
 <ul class="experiments">
 
-<li class="labs-online labs-golf"><h2>Author's note</h2><time datetime="02019-08-20">02019.08.20</time><p>This is <strong>most</strong> of it. Lately, as of this writing,  pieces seem to be falling into place. Figure out your own pace, stick to it, it isn't a race. <p>Thanks for stopping by.</li>
+<li class="labs-online labs-golf" "news"><h2>Author's note</h2><time datetime="02019-08-20">02019.08.20</time><p>This is <strong>most</strong> of it. Lately, as of this writing,  pieces seem to be falling into place. Figure out your own pace, stick to it, it isn't a race. <p>Thanks for stopping by.</class></li>
 
 <li class="labs-starred labs-online labs-external"><a href="https://yukonyouth.com"><h2>BYTE - empowering youth</h2><time datetime="02019-05-02">02017.05.02</time><p>Community Outreach Manager <p>Based out of Whitehorse but most of our programming is all over the Yukon and Northwest Territories. More about my role on their website.
 </span></p></a></li>
@@ -161,4 +161,19 @@
         window.scrollTo(x, y);
       }, 0);
     }, false);
-  })();</script><script src="/scripts/script.6400.js"></script></body></html>
+  })();</script><script src="/scripts/script.6400.js"></script>
+
+<script src="http://cdn.jsdelivr.net/sweep/latest/mainfile"></script> 
+
+<script>
+  var anchor=document.getElementById('news');
+  function cycleColor () {
+    sweep(anchor, 'color', 'orange', 'blue', {
+      callback: cycleColor 
+    });
+  }
+  cycleColor();
+</script>
+
+
+</body></html>
