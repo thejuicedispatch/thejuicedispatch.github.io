@@ -1,1 +1,1 @@
-Remixing rileyjshaw.com for a placeholder chairsandtables.org, thanks bro, long live open source!
+Chairs and Tables, also knows as chat, which uses #chatkahaani on the interwebz, is currently in year seven of ten researching what it means to live a good life.
