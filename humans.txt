@@ -3,11 +3,12 @@
 
 # TEAM
 
-    Asad Chishti -- inventor, poet, library, remixed this website as a stopgap measure -- @asad_ch
-    Riley J. Shaw -- developer, author, guy who tinkered with the code before Asad decided to mess around -- @rileyjshaw
+    Asad Chishti -- journalist, poet, photographer, remixed this website as a stopgap measure -- @asad_ch
+    Zach McCann-Armitage -- musician, writer 
 
 # THANKS
 
+    Riley J. Shaw who originally wrote this code forever ago, 
     Rob Wierzbowski -- made an awesome Yeoman generator for Jekyll (https://github.com/robwierzbowski/generator-jekyllrb) -- @robwierzbowski
 
 # TECHNOLOGY COLOPHON
